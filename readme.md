@@ -1,1 +1,1 @@
-This is the readme file and new file addded by dev B.
+This is the readme file and by devA.
